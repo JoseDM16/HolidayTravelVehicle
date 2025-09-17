@@ -3,10 +3,10 @@ public class Main {
         //Vehicle test
         String make = "Audi";
         String model = "R8";
-        int year = 2020;
+        int year = 2018;
         int serialNumber = 123456;
-        String manufacturer = "Toyota Motor Corporation";
-        int baseCost = 20000;
+        String manufacturer = "Audi AG";
+        int baseCost = 50000;
         String saleStatus = "sold";
 
         //New vehicle
