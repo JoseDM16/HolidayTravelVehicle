@@ -18,6 +18,12 @@ public class Vehicle {
     }
 
     public void printInfo() {
-        System.out.println("Make: " + make + ", Model: " + model + ", Year: " + year + ", Serial Number: " + serialNumber + ", Manufacturer: " + manufacturer + ", Base Cost: €" + baseCost + ", Sale Status: " + saleStatus);
+        System.out.println("Make: " + make);
+        System.out.println("Model: " + model);
+        System.out.println("Year: " + year);
+        System.out.println("Serial Number: " + serialNumber);
+        System.out.println("Manufacturer: " + manufacturer);
+        System.out.println("Base Cost: €" + baseCost);
+        System.out.println("Sale Status: " + saleStatus);
     }
 }
